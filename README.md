@@ -1,4 +1,4 @@
-# Project Title
+# Scheduel Organizer
 
 One Paragraph of project description goes here
 
@@ -83,5 +83,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Hat tip to anyone whose code was used
-* Inspiration
+* <script src="https://gist.github.com/PurpleBooth/109311bb0361f32d87a2.js"></script>
 * etc
